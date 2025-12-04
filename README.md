@@ -2,7 +2,6 @@
   
 # 👋 Hi, I'm Cezartdev
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -13,7 +12,6 @@ name: Cesar
 location: Earth
 current_focus: Building innovative solutions
 learning: Always expanding my tech stack
-fun_fact: Code is poetry in motion
 available_for: Collaboration on exciting projects
 ```
 
@@ -23,7 +21,7 @@ available_for: Collaboration on exciting projects
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -55,24 +53,11 @@ available_for: Collaboration on exciting projects
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cezartdev&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cezartdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9)
-
-</div>
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cezartdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=C9D1D9)](https://github.com/cezartdev)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cezartdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=EA003E&line=EA003E&point=C9D1D9)](https://github.com/cezartdev)
 
 </div>
 
